@@ -1,0 +1,10 @@
+D:\Kuliah\Semester 5\Pengolahan Citra Digital\Project 1\Image1\Image1\bin\Debug\Image1.exe.config
+D:\Kuliah\Semester 5\Pengolahan Citra Digital\Project 1\Image1\Image1\bin\Debug\Image1.exe
+D:\Kuliah\Semester 5\Pengolahan Citra Digital\Project 1\Image1\Image1\bin\Debug\Image1.pdb
+D:\Kuliah\Semester 5\Pengolahan Citra Digital\Project 1\Image1\Image1\obj\Debug\Image1.csprojAssemblyReference.cache
+D:\Kuliah\Semester 5\Pengolahan Citra Digital\Project 1\Image1\Image1\obj\Debug\Image1.Form1.resources
+D:\Kuliah\Semester 5\Pengolahan Citra Digital\Project 1\Image1\Image1\obj\Debug\Image1.Properties.Resources.resources
+D:\Kuliah\Semester 5\Pengolahan Citra Digital\Project 1\Image1\Image1\obj\Debug\Image1.csproj.GenerateResource.cache
+D:\Kuliah\Semester 5\Pengolahan Citra Digital\Project 1\Image1\Image1\obj\Debug\Image1.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 5\Pengolahan Citra Digital\Project 1\Image1\Image1\obj\Debug\Image1.exe
+D:\Kuliah\Semester 5\Pengolahan Citra Digital\Project 1\Image1\Image1\obj\Debug\Image1.pdb
