@@ -1,0 +1,10 @@
+D:\Kuliah\Semester 5\Pengolahan Citra Digital\Yovie Alfa Guistuta - 17312102 - IF17E - PCD\BAB 12\Image11\Image11\bin\Debug\Image11.exe.config
+D:\Kuliah\Semester 5\Pengolahan Citra Digital\Yovie Alfa Guistuta - 17312102 - IF17E - PCD\BAB 12\Image11\Image11\bin\Debug\Image11.exe
+D:\Kuliah\Semester 5\Pengolahan Citra Digital\Yovie Alfa Guistuta - 17312102 - IF17E - PCD\BAB 12\Image11\Image11\bin\Debug\Image11.pdb
+D:\Kuliah\Semester 5\Pengolahan Citra Digital\Yovie Alfa Guistuta - 17312102 - IF17E - PCD\BAB 12\Image11\Image11\obj\Debug\Image11.csprojAssemblyReference.cache
+D:\Kuliah\Semester 5\Pengolahan Citra Digital\Yovie Alfa Guistuta - 17312102 - IF17E - PCD\BAB 12\Image11\Image11\obj\Debug\Image11.Form1.resources
+D:\Kuliah\Semester 5\Pengolahan Citra Digital\Yovie Alfa Guistuta - 17312102 - IF17E - PCD\BAB 12\Image11\Image11\obj\Debug\Image11.Properties.Resources.resources
+D:\Kuliah\Semester 5\Pengolahan Citra Digital\Yovie Alfa Guistuta - 17312102 - IF17E - PCD\BAB 12\Image11\Image11\obj\Debug\Image11.csproj.GenerateResource.cache
+D:\Kuliah\Semester 5\Pengolahan Citra Digital\Yovie Alfa Guistuta - 17312102 - IF17E - PCD\BAB 12\Image11\Image11\obj\Debug\Image11.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 5\Pengolahan Citra Digital\Yovie Alfa Guistuta - 17312102 - IF17E - PCD\BAB 12\Image11\Image11\obj\Debug\Image11.exe
+D:\Kuliah\Semester 5\Pengolahan Citra Digital\Yovie Alfa Guistuta - 17312102 - IF17E - PCD\BAB 12\Image11\Image11\obj\Debug\Image11.pdb
